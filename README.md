@@ -24,8 +24,3 @@ Junior developper
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=xSaberZ81&theme=default&show_icons=true&hide_border=true&layout=compact"/></a>
 </p>
 
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/xSaberZ81/github-profile-views-counter">
-       <img width="175px" src="https://xSaberZ81.com/ghpvc/?username=xSaberZ81&color=DE002D">
-   </a>
-</div>
