@@ -25,7 +25,7 @@ Junior developper
 </p>
 
 <div align="center" style="margin: 40px 0">
-   <a href="https://github.com/romankh3/github-profile-views-counter">
+   <a href="![xSaberZ81's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xSaberZ81&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)">
        <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
    </a>
 </div>
