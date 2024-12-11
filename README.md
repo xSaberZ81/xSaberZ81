@@ -18,17 +18,10 @@ Here are some ideas to get you started:
 Junior developper
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=xSaberZ81&theme=default&show_icons=true&hide_border=true&count_private=true"">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=xSaberZ81&theme=default&show_icons=true&hide_border=true&count_private=true""/></a>
-   <a href="https://github-readme-stats.vercel.app/api?username=xSaberZ81&theme=default&show_icons=true&hide_border=true&count_private=true"">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=xSaberZ81&theme=default&show_icons=true&hide_border=true&count_private=true""/></a>
+   <a href="https://github-readme-stats.vercel.app/api?username=xSaberZ81&theme=default&show_icons=true&hide_border=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=xSaberZ81&theme=default&show_icons=true&hide_border=true&count_private=true"/></a>
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=xSaberZ81&theme=default&show_icons=true&hide_border=true&layout=compact">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=xSaberZ81&theme=default&show_icons=true&hide_border=true&layout=compact"/></a>
 </p>
 
 
-<p align='center'>
-   <img src="https://github-readme-stats.vercel.app/api?username=xSaberZ81&theme=default&show_icons=true&hide_border=true&count_private=true" />
-</p>
-
-<div align="center" style="margin: 40px 0">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xSaberZ81&theme=default&show_icons=true&hide_border=true&layout=compact" alt="xSaberZ81's GitHub Stats" />
-</div>
