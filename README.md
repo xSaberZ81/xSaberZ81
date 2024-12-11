@@ -23,5 +23,8 @@ Junior developper
 
 <div align="center" style="margin: 40px 0">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xSaberZ81&theme=default&show_icons=true&hide_border=true&layout=compact" alt="xSaberZ81's GitHub Stats" />
-   </a>
 </div>
+
+<p align='center'>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xSaberZ81&theme=default&hide_border=true" alt="xSaberZ81's GitHub Stats" />
+</p>
