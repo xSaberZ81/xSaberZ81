@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Junior developper
 
 <p align='center'>
-   <a href="![xSaberZ81's Stats](https://github-readme-stats.vercel.app/api?username=xSaberZ81&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)">
+   <img src="https://github-readme-stats.vercel.app/api?username=xSaberZ81&theme=default&show_icons=true&hide_border=true&count_private=true" alt="xSaberZ81's GitHub Stats" />
 </p>
 
 <div align="center" style="margin: 40px 0">
