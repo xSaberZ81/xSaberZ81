@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Junior developper
+Junior developper / Front Developper / Designer UI UX
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=xSaberZ81&theme=default&show_icons=true&hide_border=true&count_private=true">
